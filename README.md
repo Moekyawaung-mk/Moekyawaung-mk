@@ -19,9 +19,7 @@
 <h3 align="center">Computer Science and Engineering Student | Android Senior Developero</h3>
 
 <hr>
-
 <img src="NatureWithTech.jpg" alt="NatureWithTech" width=1100>
-
 <hr>
 
 <h4 align="left">GSSOC(24) Badges 🪶</h4>
